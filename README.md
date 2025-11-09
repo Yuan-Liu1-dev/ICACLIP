@@ -13,3 +13,5 @@ Perform data preprocessing, including images and text.
 Model training
 ### Textdescription.py 
 Template-based language generation mechanism for automated text description generation
+# ICA4000
+All data is based on the ic9600 dataset, divided into training and test sets at a ratio of 4:1.
